@@ -1,5 +1,7 @@
 NestJS Microservices Project (service-a and service-b)
+
 Note: I followed monorepo approache to organizing codebases
+
 This project consists of two NestJS microservices, `service-a` and `service-b`, that communicate with each other using Redis.
 
 ## Setup
