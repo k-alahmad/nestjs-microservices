@@ -7,7 +7,7 @@ This project consists of two NestJS microservices, `service-a` and `service-b`, 
 1.  **Clone the Repository:**
 
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/k-alahmad/nestjs-microservices
     cd nestjs-microservices
     ```
 
